@@ -1,0 +1,16 @@
+.cover__link {
+    display: flex;
+    text-decoration: none;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+    flex-grow: 1;
+    justify-content: center;
+    text-align: center;
+    gap: clamp(16px, 4vw, 32px);
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+.cover__link:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+}

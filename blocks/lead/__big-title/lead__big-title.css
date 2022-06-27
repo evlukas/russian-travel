@@ -1,0 +1,9 @@
+.lead__big-title {
+    font-weight: 900;
+    font-size: clamp(40px, 12.5vw, 96px);
+    line-height: 1.05;
+    font-family: "Inter", Arial, sans-serif;
+
+    max-width: 720px;
+    margin: 0 auto;
+}

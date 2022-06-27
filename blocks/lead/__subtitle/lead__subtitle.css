@@ -1,0 +1,11 @@
+.lead__subtitle {
+    font-weight: normal;
+    font-size: clamp(16px, 4vw, 30px);
+    line-height: 1.21;
+    font-family: "Inter", Arial, sans-serif;
+
+    margin: auto;
+    margin-top: clamp(16px, 4vw, 32px);
+    margin-bottom: clamp(25px, 5.5vw, 64px);
+    max-width: clamp(275px, 80vw, 500px);
+}

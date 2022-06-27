@@ -1,0 +1,9 @@
+.header__lang {
+    font: normal 24px/28px "Inter", Arial, sans-serif;
+}
+
+@media screen and (max-width: 425px) {
+    .header__lang {
+        font: normal 5.6vw/1.1 "Inter", Arial, sans-serif;
+    }
+}

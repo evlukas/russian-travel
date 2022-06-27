@@ -1,0 +1,16 @@
+.footer__nav {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 18px;
+    list-style-type: none;
+    flex-grow: 0.5;
+    margin-left: auto;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 520px) {   
+    .footer__nav {
+        display: block;
+    }
+}

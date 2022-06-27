@@ -1,0 +1,14 @@
+.places__title {
+    font-size: clamp(32px, 5.47vw, 72px);
+    line-height: 1.1;
+    font-weight: 900;
+    font-family: "Inter", Arial, sans-serif;
+
+    margin: 0;
+}
+
+@media screen and (max-width: 425px) {
+    .places__title {
+        grid-column: 1/3;
+    }
+}

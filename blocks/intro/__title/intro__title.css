@@ -1,0 +1,16 @@
+.intro__title {
+    font: 900 54px/58px "Inter", Arial, sans-serif;
+    margin: 0;
+}
+
+@media screen and (max-width: 768px) {
+    .intro__title {
+        font: 900 7vw/1.08 "Inter", Arial, sans-serif;
+    }
+}
+
+@media screen and (max-width: 425px) {   
+    .intro__title {
+        font: 900 32px/35px "Inter", Arial, sans-serif;
+    }
+}
