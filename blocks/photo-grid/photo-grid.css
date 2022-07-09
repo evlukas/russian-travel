@@ -5,13 +5,7 @@
 
 @media screen and (max-width: 1280px) {
 
-<<<<<<< HEAD
    
-=======
-    .photo-grid {
-        width: min(93.75%, 1184px);
-    }
->>>>>>> 90b06241d55c0d642c7401b634d6d4e5b094f35b
 }
 
 @media screen and (max-width: 768px) {

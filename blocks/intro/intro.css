@@ -1,13 +1,8 @@
 .intro {
-<<<<<<< HEAD
     padding: 92px 0 0;
     grid-column: 2/3;
     width: min(100%, 984px);
     justify-self: center;
-=======
-    margin: 92px auto 0;
-    width: min(93.75%, 984px);
->>>>>>> 90b06241d55c0d642c7401b634d6d4e5b094f35b
 }
 
 

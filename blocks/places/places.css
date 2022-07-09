@@ -1,13 +1,8 @@
 .places {
-<<<<<<< HEAD
     max-width: 984px;
     padding: 92px 0 92px 0;
     grid-column: 2/3;
     justify-self: center;
-=======
-    width: min(93.75%, 984px);
-    margin: 92px auto 0;
->>>>>>> 90b06241d55c0d642c7401b634d6d4e5b094f35b
 }
 
 @media screen and (max-width: 768px) {
