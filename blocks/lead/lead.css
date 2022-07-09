@@ -1,5 +1,9 @@
 .lead {
+<<<<<<< HEAD
     max-width: 984px;
+=======
+    width: min(93.75%, 984px);
+>>>>>>> 90b06241d55c0d642c7401b634d6d4e5b094f35b
     text-align: center;
     justify-self: center;
     grid-column: 2/3;
