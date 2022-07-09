@@ -1,11 +1,12 @@
 .lead {
-    width: min(92%, 984px);
+    max-width: 984px;
     text-align: center;
-    margin: 0 auto;
+    justify-self: center;
+    grid-column: 2/3;
 }
 
 @media screen and (max-width: 768px) {
     .lead {
-        width: 100%;
+        grid-column: 1/-1;
     }
 }

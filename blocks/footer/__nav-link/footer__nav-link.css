@@ -4,7 +4,7 @@
     font: normal 16px/18px "Inter", Arial, sans-serif;
 }
 
-@media screen and (max-width: 520px) {   
+@media screen and (max-width: 561px) {   
     .footer__nav-link {
         font: normal 24px/24px "Inter", Arial, sans-serif;
     }

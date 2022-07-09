@@ -7,12 +7,12 @@
 
 @media screen and (max-width: 768px) {
     .lead__photo-caption {
-        margin: 0 0 0 24px;
+        margin: 8px 0 0 24px;
     }
 }
 
 @media screen and (max-width: 425px) {   
     .lead__photo-caption {
-        margin: 0 0 0 16px;
+        margin: 8px 0 0 16px;
     }
 }

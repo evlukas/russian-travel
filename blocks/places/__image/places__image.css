@@ -1,14 +1,3 @@
 .places__image {
-    width: 47%;
-    float: left;
-    margin-bottom: 18px;
-    margin-right: clamp(28px, 3.2vw, 40px);
-}
-
-@media screen and (max-width: 425px) {
-    .places__image {
-        width: 100%;
-        margin-bottom: 32px;
-        margin-right: 0;
-    }
+    width: 100%;
 }

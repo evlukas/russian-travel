@@ -3,3 +3,9 @@
     max-width: 690px;
     font: normal 16px/26.08px "Inter", Arial, sans-serif;
 }
+
+@media screen and (max-width: 768px) {
+    .intro__desc {
+        max-width: 720px;
+    }
+}
