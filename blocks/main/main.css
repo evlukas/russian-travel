@@ -8,6 +8,7 @@
 
     .main {
         padding-top: 48px;
+        grid-template-columns: clamp(24px, 4.3vw, 48px) auto clamp(24px, 4.3vw, 48px);
     }
 
 }
