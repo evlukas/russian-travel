@@ -1,11 +1,3 @@
-.places__description {
-    font-size: 18px;
-    font-size: clamp(16px, 2vw, 18px);
-    line-height: 1.6;
-    font-weight: normal;
-    font-family: "Inter", Arial, sans-serif;
-}
-
 @media screen and (max-width: 561px) {
     .places__description  {
         padding: 32px 16px 0 16px;

@@ -8,9 +8,9 @@
     justify-content: center;
     text-align: center;
     gap: clamp(16px, 4vw, 32px);
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(42, 44, 47, 0.3);
 }
 
 .cover__link:hover {
-    background-color: rgba(0, 0, 0, 0.8);
+    background-color: rgba(42, 44, 47, 0.8);
 }

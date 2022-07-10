@@ -1,5 +1,9 @@
 .places__paragraph {
     margin: 0 0 27px 0;
+    font-size: clamp(16px, 2vw, 18px);
+    line-height: 1.6;
+    font-weight: normal;
+    font-family: "Inter", Arial, sans-serif;
 }
 
 .places__paragraph:last-of-type {

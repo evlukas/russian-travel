@@ -1,0 +1,14 @@
+.footer__nav-items {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap: 18px;
+    list-style-type: none;
+    flex-wrap: wrap;
+}
+
+@media screen and (max-width: 561px) {   
+    .footer__nav-items {
+        display: block;
+    }
+}
